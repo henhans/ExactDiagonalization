@@ -5,4 +5,6 @@ The code used lapack and blas or the intel-mkl library.
 After compiling, the executable is "ExactDiagonalization.out". The code can gnerate energies, spectralfunction, and green's function at zero temperature. One can use the command line argument to change the parameters.
 The commandline arguments are: N, U, mu, t, broaden, model(0 for anderson or 1 for hubbard ).
 
+The next step is to implement the Lanczos algorithm, and finite temperature Green's function. Then, the cluster methods such as CPT.
+
 Tsung-Han Lee
