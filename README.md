@@ -1,2 +1,2 @@
 # ExactDiagonalization
-ExactDiagonalization for Hubbard model
+Full exact diagonalization for 1D Hubbard model
