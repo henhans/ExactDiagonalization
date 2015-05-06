@@ -1,0 +1,29 @@
+6-site chain
+
+tight-binding with interaction on first site(Anderson) only
+
+U = 1
+eps = -0.5
+t = -0.5
+
+120 subspaces of size 0
+4 subspaces of size 1
+8 subspaces of size 6
+8 subspaces of size 15
+4 subspaces of size 20
+4 subspaces of size 36
+8 subspaces of size 90
+4 subspaces of size 120
+4 subspaces of size 225
+4 subspaces of size 300
+1 subspaces of size 400
+
+Largest subspace = 400
+
+Ground state quantum numbers and energy:
+Q = 6, Sz = 0, r = 0, energy = -3.78225
+
+basis config= (	1	1	1	-1	-1	-1	)
+Spectral weight = 1
+4096	states
+program execution needed 19 seconds
